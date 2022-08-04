@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Negocio", "Negocio\Negocio.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datos", "Datos\Datos.csproj", "{962DD1C4-5020-438C-B8EF-147503058EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{950DDA0B-A7F5-488E-9813-821615F55832}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{950DDA0B-A7F5-488E-9813-821615F55832}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
